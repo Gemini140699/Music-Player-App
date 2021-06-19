@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <integer name="integerFullPlayerCoverBackgroundRadius">18</integer>
+    <integer name="integerFullPlayerCoverBackgroundSampling">4</integer>
+
+    <integer name="integerMaxLinesSongName">1</integer>
+    <integer name="integerMaxLinesSingerName">1</integer>
+</resources>
